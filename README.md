@@ -27,3 +27,5 @@ To embark on this journey, clone this repository to your local machine and metic
 ## Additional Resources
 
 Our report contains additional resources for reference purposes. Feel free to explore and tweak the code to further enhance the project.
+
+Video link of presentation : https://youtu.be/gBJi2cwvYgk
